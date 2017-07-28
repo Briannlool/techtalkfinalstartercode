@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+#header{
+    background-color: turquoise;
+    color: purple;    
+    border-color: blue;
+    border-style: solid;
+}
