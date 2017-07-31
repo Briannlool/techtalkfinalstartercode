@@ -1,14 +1,10 @@
 /* global $ */ 
 $( document ).ready(function() {
+
+
+$("#find").click(function(){
+   alert("What are you lookng for?"); 
+
+
+    });
 });
-
-$("#search").click(function(){
-   var search = $("#search").val(); 
-   
-if (search === "computer"){
-    $("#search").html("a href= index.html");
-} else {
-    $("#search").html("a href= index.html");
-}
-
-}); 
