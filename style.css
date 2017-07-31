@@ -1,7 +1,23 @@
 h1{
     text-align: center;
-    background-color: turquoise;
+    background-color: lightgreen;
     color: purple;    
     border-color: blue;
     border-style: solid;
+}
+.col-xs-6{
+    background-color: lightblue;
+    
+}
+.col-xs-12 {
+    background-color: lightyellow;
+   
+}
+.col-md-6{
+    background-color: purple;
+    padding-left: 100px ;
+    margin-right: 20px;
+}
+#box{
+    padding-left: 17px;
 }
